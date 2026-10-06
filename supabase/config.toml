@@ -1,0 +1,4 @@
+project_id = "ancore-test"
+
+[functions.send-notification]
+verify_jwt = false
